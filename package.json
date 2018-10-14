@@ -1,0 +1,22 @@
+{
+  "name": "frontend-akmanov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iskanaa3/2018-FS-11-Frontend-Akmanov.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iskanaa3/2018-FS-11-Frontend-Akmanov/issues"
+  },
+  "homepage": "https://github.com/iskanaa3/2018-FS-11-Frontend-Akmanov#readme",
+  "devDependencies": {
+    "webpack": "^4.20.2"
+  }
+}
